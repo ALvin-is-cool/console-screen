@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://news.artnet.com/app/news-upload/2019/05/Bob-Ross_1.png");
+}
+
+#my_canvas{
+	border-style: ridge;
+	 border-width: 10px;
+   background-color: ghostwhite;
+	
+	 border-color: rgb(6, 247, 247);
+}
